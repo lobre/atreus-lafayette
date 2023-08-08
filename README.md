@@ -10,16 +10,16 @@ It consists of 4 layers.
 
 ### Base layer
 
-<img src="https://raw.githubusercontent.com/lobre/atreus-lafayette/main/layers/base.png" width="600">
+<img src="https://raw.githubusercontent.com/lobre/atreus-lafayette/main/layers/layer_base.png" width="600">
 
 ### Symbols layer
 
-<img src="https://raw.githubusercontent.com/lobre/atreus-lafayette/main/layers/fn.png" width="600">
+<img src="https://raw.githubusercontent.com/lobre/atreus-lafayette/main/layers/layer_sym.png" width="600">
 
 ### Navigation and numbers layer
 
-<img src="https://raw.githubusercontent.com/lobre/atreus-lafayette/main/layers/fn.png" width="600">
+<img src="https://raw.githubusercontent.com/lobre/atreus-lafayette/main/layers/layer_nn.png" width="600">
 
 ### Functions layer
 
-<img src="https://raw.githubusercontent.com/lobre/atreus-lafayette/main/layers/upper.png" width="600">
+<img src="https://raw.githubusercontent.com/lobre/atreus-lafayette/main/layers/layer_fn.png" width="600">
