@@ -73,9 +73,9 @@ KEYMAPS(
     Key_Delete,     XXX,            XXX,            XXX,             XXX,           XXX,
     LockLayer(FN),  Key_Tab,        Key_LeftGui,    Key_LeftAlt,     Key_Space,     Key_LeftControl,
 
-                    Key_Star,       Key_7,        Key_8,  Key_9,       Key_Backspace,
-                    Key_Plus,       Key_4,        Key_5,  Key_6,       Key_Semicolon,
-    Key_Slash,      Key_Minus,      Key_1,        Key_2,  Key_3,       M(MACRO_NN),
+                    XXX,            Key_7,        Key_8,  Key_9,       Key_Backspace,
+                    XXX,            Key_4,        Key_5,  Key_6,       Key_Semicolon,
+    XXX,            XXX,            Key_1,        Key_2,  Key_3,       M(MACRO_NN),
     Key_LeftShift,  Key_Backspace,  TD(TD_BASE),  Key_0,  Key_Period,  Key_Enter
   ),
 
